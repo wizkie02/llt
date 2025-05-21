@@ -1,0 +1,7 @@
+{
+  "/tour-grid/page": "app/tour-grid/page.js",
+  "/page": "app/page.js",
+  "/about/page": "app/about/page.js",
+  "/destination1/page": "app/destination1/page.js",
+  "/blog/page": "app/blog/page.js"
+}
